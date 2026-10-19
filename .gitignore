@@ -1,0 +1,16 @@
+build/
+src/hook/*.o
+src/hook/ldhook.elf
+src/injector/blob.h
+src/injector/*.o
+__pycache__/
+*.pyc
+*.elf
+*.bin
+*.log
+*.cmd
+*.zip
+*.7z
+.vs/
+.idea/
+.vscode/
