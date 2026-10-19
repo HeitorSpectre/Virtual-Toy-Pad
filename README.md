@@ -1,9 +1,7 @@
 # Virtual Toy Pad by HeitorSpectre
 
-[![GitHub Stars](https://img.shields.io/github/stars/HeitorSpectre/Virtual-Toy-Pad?style=for-the-badge&logo=github&label=Stars)](https://github.com/HeitorSpectre/Virtual-Toy-Pad/stargazers)
-[![GitHub Downloads](https://img.shields.io/github/downloads/HeitorSpectre/Virtual-Toy-Pad/total?style=for-the-badge&logo=github&label=Downloads)](https://github.com/HeitorSpectre/Virtual-Toy-Pad/releases)
-
-
+[![GitHub Stars](https://img.shields.io/github/stars/HeitorSpectre/Virtual-Toy-Pad?style=for-the-badge&logo=github&label=Stars&v=2)](https://github.com/HeitorSpectre/Virtual-Toy-Pad/stargazers)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeitorSpectre/Virtual-Toy-Pad/total?style=for-the-badge&logo=github&label=Downloads&v=2)](https://github.com/HeitorSpectre/Virtual-Toy-Pad/releases)
 
 An unofficial ELF payload that lets you play the PS4 version of LEGO Dimensions on a jailbroken PS5 with a virtual Toy Pad, without the physical accessory. Select characters and vehicles using your DualSense.
 
